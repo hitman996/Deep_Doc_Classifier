@@ -1,4 +1,4 @@
-# Deep_Doc_Classifiera
+# Deep_Doc_Classifier
 
 ### data_modification.py
 The file data_modification changes the dataset images from a single chanel to 3 channel. This is done as an input to alex net. Also the image size is reduced to 227x227 inorder to reduce the computational overhead.
