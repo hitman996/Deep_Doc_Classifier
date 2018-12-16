@@ -1,0 +1,9 @@
+start_epoch = 1
+num_epochs = 2
+batch_size = 10
+optim_type = 'SGD'
+resize=227
+crop_size=227
+lr=0.0001
+channels = 3
+classes = 10
