@@ -4,6 +4,7 @@
 - tensorflow  
 - keras  
 - pytorch  
+- torchvision  
 - pandas  
 - matplotlib  
 - numpy  
