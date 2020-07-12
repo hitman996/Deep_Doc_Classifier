@@ -3,9 +3,9 @@
 # Dataset setup
 To train your network, you need to first download the  [Tobacco-3482](https://www.kaggle.com/patrickaudriaz/tobacco3482jpg) dataset with 10 document classes. You can use the **train_test_split.py** to split the dataset into training and testing folders. Give the path to the Dataset folder as shown in line 7 of **train_test_split.py**
 
-'''
+```
 dataset_path = Path(r'Data/Tobacco3482-jpg')
-'''
+```
 
 ## Requirements:
 - tensorflow  
